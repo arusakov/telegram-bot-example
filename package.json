@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-example",
+  "version": "0.0.1",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "repository": "git@github.com:arusakov/telegram-bot-example.git",
+  "author": "arusakov <a_s_rusakov@mail.ru>",
+  "license": "MIT"
+}

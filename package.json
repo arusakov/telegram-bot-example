@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:arusakov/telegram-bot-example.git",
   "author": "arusakov <a_s_rusakov@mail.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "3.38.0"
+  }
 }
